@@ -2,10 +2,10 @@
   <defs>
     <style>
       .title { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
-      .prompt { font: 600 14px 'Fira Code', 'Courier New', monospace; fill: #58a6ff; }
-      .cmd { font: 600 14px 'Fira Code', 'Courier New', monospace; fill: #c9d1d9; }
-      .out { font: 400 14px 'Fira Code', 'Courier New', monospace; fill: #7ee787; }
-      .out2 { font: 400 14px 'Fira Code', 'Courier New', monospace; fill: #e3b341; }
+      .prompt { font: 600 14px 'Courier New', monospace; fill: #58a6ff; }
+      .cmd { font: 600 14px 'Courier New', monospace; fill: #c9d1d9; }
+      .out { font: 400 14px 'Courier New', monospace; fill: #7ee787; }
+      .out2 { font: 400 14px 'Courier New', monospace; fill: #e3b341; }
     </style>
   </defs>
   <rect width="560" height="340" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
@@ -15,3 +15,20 @@
   <circle cx="40" cy="17" r="6" fill="#ffbd2e"/>
   <circle cx="60" cy="17" r="6" fill="#27c93f"/>
   <text x="280" y="22" text-anchor="middle" class="title">taiful@github: ~</text>
+  <text x="20" y="65" class="prompt">guest@Taiful-Islam</text>
+  <text x="175" y="65" class="cmd">:~$ whoami</text>
+  <text x="20" y="90" class="out">Taiful Islam - Full-Stack Developer</text>
+  <text x="20" y="120" class="prompt">guest@Taiful-Islam</text>
+  <text x="175" y="120" class="cmd">:~$ cat status.txt</text>
+  <text x="20" y="145" class="out2">Currently building: DATABASE project</text>
+  <text x="20" y="167" class="out2">Currently learning: Cloud Computing</text>
+  <text x="20" y="197" class="prompt">guest@Taiful-Islam</text>
+  <text x="175" y="197" class="cmd">:~$ ls skills/</text>
+  <text x="20" y="222" class="out">JavaScript  TypeScript  React  Node.js</text>
+  <text x="20" y="244" class="out">Python  Java  HTML  CSS  Docker  AWS</text>
+  <text x="20" y="274" class="prompt">guest@Taiful-Islam</text>
+  <text x="175" y="274" class="cmd">:~$ echo $CONTACT</text>
+  <text x="20" y="299" class="out">taifulislam1127@gmail.com</text>
+  <text x="20" y="325" class="prompt">guest@Taiful-Islam</text>
+  <text x="175" y="325" class="cmd">:~$_</text>
+</svg>
