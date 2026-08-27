@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Earth</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="./assets/terminal.svg" alt="Terminal" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taiful-Islam&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Taiful-Islam&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
