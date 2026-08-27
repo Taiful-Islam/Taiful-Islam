@@ -32,10 +32,14 @@
 
 <br/>
 
-## 📌 Featured Project
+## 📌 Projects
 
-> ### [🔗 MiniCompiler](https://github.com/Taiful-Islam/MiniCompiler)
-> My first public repository — a compact compiler project. Actively pushing commits and improving it.
+| Project | Description |
+|---|---|
+| 🔗 [**numerical-integration-webapp**](https://github.com/Taiful-Islam/numerical-integration-webapp) | A C-based web app for numerical integration methods |
+| 🔗 [**MINI-SQL-ENGINE**](https://github.com/Taiful-Islam/MINI-SQL-ENGINE) | A lightweight SQL engine built from scratch in C |
+| 🔗 [**birthday-exe**](https://github.com/Taiful-Islam/birthday-exe) | A fun, interactive HTML project |
+| 🔗 [**MiniCompiler**](https://github.com/Taiful-Islam/MiniCompiler) | My first public repository — a compact compiler project written in C |
 
 <br/>
 
