@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Earth</h3>
 
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Terminal" />
+  <img src="./assets/terminal.svg" alt="Neofetch" />
 </p>
 
 <p align="center">
@@ -34,6 +34,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Taiful-Islam&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats-sigma-flax.vercel.app/api/top-langs/?username=Taiful-Islam&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
