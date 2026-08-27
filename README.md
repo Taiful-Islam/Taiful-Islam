@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Taiful Islam 👋</h1>
-<h3 align="center">Software Developer | Building with code, curious about everything</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Taiful+Islam+%F0%9F%91%8B;Software+Developer;Building+with+code%2C+curious+about+everything;Currently+exploring+Cloud+Computing" alt="Typing animation" />
+</h1>
 
 <p align="center">
   <img src="./assets/terminal.svg" alt="Neofetch terminal animation" />
@@ -14,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[MiniCompiler](https://github.com/Taiful-Islam/MiniCompiler)** — my first public repository
+- 🔭 Currently working on **Database** — building out **[MiniCompiler](https://github.com/Taiful-Islam/MiniCompiler)**, my first public repository
 - 🌱 Currently learning **Cloud Computing**
 - 👯 Looking to collaborate on **open-source AI projects**
 - 💬 Ask me about **React, Python, or DevOps**
@@ -33,11 +34,9 @@
 
 ## 📌 Featured Project
 
-<a href="https://github.com/Taiful-Islam/MiniCompiler">
-  <img align="left" src="https://github-readme-stats-sigma-flax.vercel.app/api/pin/?username=Taiful-Islam&repo=MiniCompiler&theme=tokyonight&hide_border=true" alt="MiniCompiler repo card"/>
-</a>
+> ### [🔗 MiniCompiler](https://github.com/Taiful-Islam/MiniCompiler)
+> My first public repository — a compact compiler project. Actively pushing commits and improving it.
 
-<br clear="left"/>
 <br/>
 
 ## 📊 GitHub Stats
